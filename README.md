@@ -33,11 +33,11 @@ The goal is to build an end-to-end data analytics pipeline — from data ingesti
 * Designed relational schema for multi-valued skills
 * Normalized skills into separate SQL table
 * Ran analytical SQL queries to identify:
-  Top hiring companies
-  Most active locations
-  Experience requirements
-  Education distribution
-  Top in-demand technical skills
+  Top hiring companies,
+  Most active locations,
+  Experience requirements,
+  Education distribution,
+  Top in-demand technical skills,
 
 * Created visualizations for skill demand trends
 * Exported aggregated tables for dashboards
